@@ -1,2 +1,4 @@
-# Ajax-with-php
-Simple project to understand AJAX and JQUERY with php backend
+![](./docs/screenshot.png)
+
+# Index
+- simple-ajax
